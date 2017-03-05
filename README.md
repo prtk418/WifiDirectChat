@@ -1,1 +1,2 @@
 # WifiDirectChat
+CURRENTLY UNDER DEVELOPMENT 
